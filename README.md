@@ -1,8 +1,3 @@
-+51
-
-
-Original file line number	Diff line number	Diff line change
-@@ -0,0 +1,51 @@
 # 📝 Simple Spring Boot and React To-Do App with Login and JWT Authentication
 ## 📌 User API
 - **`POST /user/login`** (Public)  
